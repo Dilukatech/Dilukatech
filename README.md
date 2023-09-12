@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diluka Deshan.</h1>
 <h3 align="center">Computer Science Undergraduate at University of Colombo School of Computing.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilukatech&label=Profile%20views&color=0e75b6&style=flat" alt="Dilukatech" /> </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilukatech&show_icons=true&locale=en" alt="Dilukatech" /></p>
 <!--
