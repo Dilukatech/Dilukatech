@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diluka Deshan.</h1>
 <h3 align="center">Computer Science Undergraduate at University of Colombo School of Computing.</h3>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Dilukatech&show_icons=true&locale=en" alt="Dilukatech" /></p>
 <!--
 **Dilukatech/Dilukatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
