@@ -1,6 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilukatech&label=Profile%20views&color=0e75b6&style=flat" alt="Dilukatech" /> </p>
 <h1 align="center">Hi 👋, I'm Diluka Deshan.</h1>
 <h3 align="center">Computer Science Undergraduate at University of Colombo School of Computing.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dilukatech&label=Profile%20views&color=0e75b6&style=flat" alt="Dilukatech" /> </p>
+
 
 <!--
 **Dilukatech/Dilukatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
